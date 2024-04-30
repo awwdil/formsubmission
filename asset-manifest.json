@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/formsubmission/static/css/main.7e544c7b.css",
+    "main.js": "/formsubmission/static/js/main.184840d6.js",
+    "static/media/mainlogo.png": "/formsubmission/static/media/mainlogo.1e021de7020fcdab170b.png",
+    "static/media/fbVideo.png": "/formsubmission/static/media/fbVideo.cd825f052e34a088a3e4.png",
+    "static/media/thankstop.png": "/formsubmission/static/media/thankstop.f19d77694f7b29c84dc8.png",
+    "static/media/metalogo.png": "/formsubmission/static/media/metalogo.cd236dd6d175111d37f1.png",
+    "static/media/meta.svg": "/formsubmission/static/media/meta.70e03b4e91e7f05482a4a66fe83ed1d2.svg",
+    "index.html": "/formsubmission/index.html",
+    "main.7e544c7b.css.map": "/formsubmission/static/css/main.7e544c7b.css.map",
+    "main.184840d6.js.map": "/formsubmission/static/js/main.184840d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e544c7b.css",
+    "static/js/main.184840d6.js"
+  ]
+}
